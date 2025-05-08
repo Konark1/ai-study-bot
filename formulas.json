@@ -1,0 +1,7 @@
+{
+  "formulas": {
+    "quadratic formula": "x = (-b \u00b1 \u221a(b\u00b2 - 4ac)) / 2a",
+    "area of a circle": "\u03c0 \u00d7 r\u00b2",
+    "area of a square": "\nA square is a four-sided polygon that has all sides equal in length and all angles equal to 90 degrees. The area of a square can be calculated using the following formula:\n$$A = s^2$$\nwhere $s$ represents the side length of the square. This means that the area of a square is simply the square of its side length. For example, if the side length of a square is 5 units, then its area would be:\n$$A = 5^2 = 25 \\text{ square units}$$"
+  }
+}
